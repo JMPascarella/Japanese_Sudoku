@@ -1,2 +1,2 @@
 # Japanese_Sudoku
-Sudoku, css styling &amp; html inline tables
+Template website for company selling sudoku puzzles, css styling &amp; html inline tables
